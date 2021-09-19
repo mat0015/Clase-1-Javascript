@@ -1,6 +1,6 @@
-    let claseApellido = prompt("Ingrese su apellido")
-    let claseNombre = prompt("Ingrese su nombre")
-    let alumno = "Hola " + claseApellido + " " +claseNombre
+    let apellido = prompt("Ingrese su apellido")
+    let nombre = prompt("Ingrese su nombre")
+    let alumno = "Hola " + apellido + " " + nombre
     alert (alumno)
     let numero1 = prompt("Ingrese un número")
     let numero2 = 2.3
